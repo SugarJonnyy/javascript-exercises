@@ -12,6 +12,16 @@
 
 
 
+const fullName = "Carlos Stevenson";
+const age = 18;
+
+const greeting = "Hello My name is " + fullName + " and age is " + age;
+console.log(greeting);
+
+
+
+
+
 
 // Do not change this
 module.exports = {
